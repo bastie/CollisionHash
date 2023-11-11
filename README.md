@@ -1,3 +1,5 @@
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fbastie%2FCollisionHash%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/bastie/CollisionHash) [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fbastie%2FCollisionHash%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/bastie/CollisionHash)
+
 # CollisionHash
  
 <span title="standalone implementation of collisions hash algorithm">
